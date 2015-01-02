@@ -1,0 +1,9 @@
+G:\BiTM_BASIS\GradSheetApp\GradSheetApp\bin\Debug\GradSheetApp.exe.config
+G:\BiTM_BASIS\GradSheetApp\GradSheetApp\obj\Debug\GradSheetApp.csprojResolveAssemblyReference.cache
+G:\BiTM_BASIS\GradSheetApp\GradSheetApp\obj\Debug\GradSheetApp.Properties.Resources.resources
+G:\BiTM_BASIS\GradSheetApp\GradSheetApp\obj\Debug\GradSheetApp.csproj.GenerateResource.Cache
+G:\BiTM_BASIS\GradSheetApp\GradSheetApp\bin\Debug\GradSheetApp.exe
+G:\BiTM_BASIS\GradSheetApp\GradSheetApp\bin\Debug\GradSheetApp.pdb
+G:\BiTM_BASIS\GradSheetApp\GradSheetApp\obj\Debug\GradSheetApp.exe
+G:\BiTM_BASIS\GradSheetApp\GradSheetApp\obj\Debug\GradSheetApp.pdb
+G:\BiTM_BASIS\GradSheetApp\GradSheetApp\obj\Debug\GradSheetApp.GradeSheetForm.resources
